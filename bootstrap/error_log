@@ -1,0 +1,4 @@
+[03-Jun-2022 08:43:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/wankasalud/public_html/admin/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/wankasalud/public_html/admin/bootstrap/app.php on line 14
